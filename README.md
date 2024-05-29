@@ -2,7 +2,7 @@
 
 # Conteúdos a serem trabalhados nesse módulo:
 
-•	LinkedIn
+-	LinkedIn
 •	Currículo e carta de apresentação
 •	Gestão de tempo
 •	Funções
